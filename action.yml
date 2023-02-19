@@ -1,4 +1,5 @@
-name: 'Wiki Helpers'
+- name: Wiki Helpers
+  uses: photodow/wiki-helpers@1.2.4
 description: 'This action offers a number of helpers to help automate some of the laborious tasks across many files within a wiki.'
 inputs:
   rootPath:  # id of input
